@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+Check out my website!  <a href="https://saifhaq.com/">saifhaq.com</a>
+
+<p align="center">
+<img align="center" alt="Saif Haq's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=saifhaq&show_icons=true&count_private=true&include_all_commits=true" />
+    <img align="center" alt="Saif Haq's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifhaq&layout=compact" />
+</p>
 
 <!--
 **saifhaq/saifhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Saif's github stats](https://github-readme-stats.vercel.app/api?username=saifhaq)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
