@@ -1,5 +1,4 @@
 ### Hi there 👋 
-Check out my website!  <a href="https://saifhaq.com/">saifhaq.com</a>
 
 <p align="center">
 <img align="center" alt="Saif Haq's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=saifhaq&show_icons=true&count_private=true&include_all_commits=true" />
